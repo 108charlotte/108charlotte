@@ -7,5 +7,5 @@ Hi! My name is Charlotte, and welcome to my GitHub profile! I have been coding s
 - i am a programmer on my school's FRC team
 - i am part of hack club and am going to their Shipwrecked hackathon on August 8th! 
 
-### coding stats
+### coding stats (all time)
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2463&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)

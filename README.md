@@ -12,12 +12,12 @@ Hi! My name is Charlotte, welcome to my GitHub profile! I have been coding since
   - i have attended several of their flagship hackathons: shipwrecked and parthenon
   - i was a community reviewer + fulfiller for the athena awards and am now one for sleepover
   - i am part of SAD (special activities division) and run events on the slack
-  - i am a local hackathon organizer (daydream atlanta) and am currently organizing campfire atlanta and rainfall (a local athena event)
+  - i am a local hackathon organizer (daydream atlanta) and am currently organizing rainfall (a local athena event)
 
 ## favorite courses
 1. MIT's Intro to Deep Learning on OpenCourseWare: i felt that this course did an amazing job going from deep learning fundamentals all the way to modern technologies. my final project is available [here](https://github.com/108charlotte/ChatGPT-Hallucination-Likelihood-Detection-from-Prompts-with-BERT)!
 2. CS50x: the first complete coding course i took independently; without it, i never would have been able to create any of my projects
-3. Stanford's pre-collegiate institutes Intro to AI: my only course on this list that isn't self-paced, a great general introduction to AI for those without a technical background. without this course, i wouldn't have been able to understand the MIT course I later took
+3. Stanford's pre-collegiate institutes Intro to AI: my only course on this list that isn't self-paced, a great general introduction to AI for those who haven't worked with it before. without this course, i wouldn't have been able to understand the MIT course I later took
 
 ### coding stats (all time)
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2463&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
